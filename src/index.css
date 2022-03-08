@@ -1,0 +1,28 @@
+.img_main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.static_img{
+    max-height: 100%;
+    max-width: 100%;
+    margin: 1rem;
+}
+.imgCont{
+    height: 150px;
+    width: 140%;
+    display: flex;
+    padding-left: 20%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: right;
+    border: 2px black;
+}
+.main{
+    display: flex;
+    width:1024px;
+    margin: auto;
+    }
